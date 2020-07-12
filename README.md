@@ -1,6 +1,6 @@
-## Hello, there!
+# Hello, there!
 
-I'm programmer who interested in various fields such as:
+I'm a programmer who interested in various fields such as:
 
 - Compilers
 - Web Applications
