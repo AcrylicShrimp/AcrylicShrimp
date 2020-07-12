@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello, there!
 
-<!--
-**AcrylicShrimp/AcrylicShrimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm programmer who interested in various fields such as:
 
-Here are some ideas to get you started:
+- Compilers
+- Web Applications
+- Computer Graphics and Games
+- Data Engineering
+- Deep learning > Reinforcement learning
+- IoT
+- Operating Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please feel free to contact to me!
+
+## Active projects
+
+- [piped](http://github.com/AcrylicShrimp/piped) - A pipeline orchestrator for everyone to build softwares easier and faster.
+- [onyx](http://github.com/AcrylicShrimp/onyx) - Rendering engine based on Vulkan and C++2x.
+- [devlog-frontend](https://github.com/AcrylicShrimp/devlog-frontend) and [devlog-backend](https://github.com/AcrylicShrimp/devlog-backend) - A minimal devlog service.
