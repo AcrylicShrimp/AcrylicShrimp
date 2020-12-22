@@ -10,7 +10,8 @@ I'm a programmer who interested in various fields such as:
 - IoT
 - Operating Systems
 
-Please feel free to contact to me!
+My blog is below:
+https://blog.ashrimp.dev/
 
 ## Active projects
 
