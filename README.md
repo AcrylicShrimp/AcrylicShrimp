@@ -11,5 +11,3 @@ I'm a programmer who interested in various fields such as:
 - Operating Systems
 
 My blog is here: https://blog.ashrimp.dev/
-
-## Active projects
